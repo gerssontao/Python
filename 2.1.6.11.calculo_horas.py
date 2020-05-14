@@ -10,4 +10,3 @@ dura = int(input("Event duration (minutes): "))
 # put your code here
 
 
-print("El evento finalizará a las:", hour, ":", ((dura%60)+mins)%60)
