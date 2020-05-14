@@ -1,4 +1,4 @@
-print("Welcome to my app to calc taxes!!!")
+print("Welcome to my app to calc taxes!!!\n")
 income = float(input("Enter the annual income: "))
 tax_relief=556.02
 
